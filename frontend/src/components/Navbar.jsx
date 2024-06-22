@@ -55,7 +55,7 @@ const Navbar = () => {
         <li className="nav-item"><Link to="/Placement" onClick={() => setIsMenuOpen(false)} style={{ color: 'white' }}>Placements</Link></li>
       </ul>
       <button className="apply-now"><span><Link to="/Contact" onClick={() => setIsMenuOpen(false)} style={{ color: 'white' }}>APPLY NOW</Link></span></button>
-      <div className="contact" style={{ color: 'white' }}>Call: +91 8859833392</div>
+      <div className="contact" style={{ color: 'white' }}>Call: +91 8393999919</div>
       <div className="hamburger" onClick={toggleMenu}>
         {isMenuOpen ? <FaTimes /> : <FaBars />}
       </div>

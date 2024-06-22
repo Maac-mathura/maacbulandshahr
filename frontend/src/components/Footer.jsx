@@ -6,7 +6,7 @@ import '../styles/Footer.css';
 
 const Footer = () => {
   
-  const phoneNumber = '918859833392';
+  const phoneNumber = '918393999919';
   const message = 'Hello, I would like to know more about your services.';
 
   const createWhatsAppLink = (phone, msg) => {
@@ -51,15 +51,15 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <h3>Contact Us</h3>
-          <p>Mobile: 91 8859833392</p>
+          <p>Mobile: 91 8393999920</p>
           <ul className="social-media">
             <li className='abc'>
-              <a href="https://www.instagram.com/maacmathura?igsh=MmlhbzA1MHUzdGlu" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/maacbulandshahr/?igshid=NGExMmI2YTkyZg%3D%3D" target="_blank" rel="noopener noreferrer">
                 <FaInstagram className="icon" />
               </a>
             </li>
             <li className='abc'>
-              <a href="https://www.facebook.com/profile.php?id=61555951572659" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/people/Maac-Bulandshahr/100092163020382/?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
                 <FaFacebook className="icon" />
               </a>
             </li>
