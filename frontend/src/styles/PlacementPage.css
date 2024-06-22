@@ -63,11 +63,19 @@
     .company-logo {
       width: 50%;
     }
+    
+    .placementimg{
+      width: 250px;
+    }
   }
   
   @media (max-width: 480px) {
     .company-logo {
       width: 100%;
+    }
+
+    .placementimg{
+      width: 250px;
     }
   }
   /* PlacementPage.css */
