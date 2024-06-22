@@ -1,6 +1,6 @@
 import React from 'react';
 
-import image from '../images/maac.jpg';
+import image from '../images/maac.png';
 import image1 from '../companies/image.png';
 import image2 from '../companies/image1.png';
 import image3 from '../companies/image2.png';

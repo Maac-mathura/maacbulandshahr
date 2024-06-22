@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaFacebook, FaInstagram, FaWhatsapp } from 'react-icons/fa';
-import maac from '../images/maac.jpg';
+import maac from '../images/maac.png';
 import '../styles/Footer.css';
 
 const Footer = () => {
