@@ -20,8 +20,6 @@ import video5 from '../videos/video5.mp4';
 
 import image from '../gifimages/image.gif'
 import image3 from '../gifimages/image3.png'
-import rightarrow from '../images/rightarrow.png'
-
 
 import img1 from '../images/bottom.png';
 
@@ -82,9 +80,6 @@ const Home = () => {
             <div className="course-content">
             <h2>3D Animation Courses</h2>
             <p>Learn animation with the top animation courses at MAAC. Discover animation courses fees and more details about animation related courses.</p>
-            <a href="adidg">
-              <img src={rightarrow} alt="icon" loading="lazy"/>
-            </a>
             </div>
           </div>
         </div>
